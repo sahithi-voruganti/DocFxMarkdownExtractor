@@ -1,0 +1,15 @@
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\bin\Debug\netcoreapp3.1\DocFxMarkdownExtractor.exe
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.csprojAssemblyReference.cache
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.AssemblyInfoInputs.cache
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.AssemblyInfo.cs
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\bin\Debug\netcoreapp3.1\DocFxMarkdownExtractor.deps.json
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\bin\Debug\netcoreapp3.1\DocFxMarkdownExtractor.runtimeconfig.json
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\bin\Debug\netcoreapp3.1\DocFxMarkdownExtractor.runtimeconfig.dev.json
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\bin\Debug\netcoreapp3.1\DocFxMarkdownExtractor.dll
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\bin\Debug\netcoreapp3.1\DocFxMarkdownExtractor.pdb
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.csproj.CoreCompileInputs.cache
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.csproj.CopyComplete
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.dll
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.pdb
+D:\3M\SourceCode\DocFxMarkdownExtractor\DocFxMarkdownExtractor\obj\Debug\netcoreapp3.1\DocFxMarkdownExtractor.genruntimeconfig.cache
